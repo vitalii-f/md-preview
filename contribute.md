@@ -19,7 +19,7 @@ In any case, if you are interested in AI security, [join OWASP Slack](https://ow
 
 ## Participate in Content Development
 
-- 📥 Send your suggestion XXX to the [project leader](/connect/#owasp-ai-project-leader).
+- 📥 Send your XXX suggestion XXX to the [project leader](/connect/#owasp-ai-project-leader).
 - 📄 or [apply to join the Authors group](https://forms.gle/XwEEK52y4iZQChuJ6)
 - 🗣️ or discuss with the [project leader](/connect/#owasp-ai-project-leader) how to become part of the Authors group
 - 💡 or propose your [ideas](https://github.com/OWASP/www-project-ai-security-and-privacy-guide/discussions/categories/ideas), or submit an [issue](https://github.com/OWASP/www-project-ai-security-and-privacy-guide/issues).
